@@ -1,0 +1,3 @@
+[workspace]
+members = [ "signal-with-channel","signal-with-variable"]
+resolver = "2"
